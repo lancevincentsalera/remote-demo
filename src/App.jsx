@@ -1,6 +1,7 @@
 function App() {
   return (
     <div>
+      LOL
       <header className="max-w-2xl mx-auto px-6 pt-16">
         <h1 className="text-4xl font-semibold tracking-tight">Loucille Marie B. Tupaz</h1>
         <p className="mt-2 text-lg text-slate-600">
